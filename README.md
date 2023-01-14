@@ -1,2 +1,4 @@
 # Initial-Coin-Offering-Contract-in-Solidity
-In this repo, I built a simple ICO contract that manages every vital aspect of coin ordering, processing, and delivery
+In this repo, I built a simple ICO contract that manages every vital aspect of coin ordering, processing, and delivery.
+
+I commented well on the code for faster understaning of the logic.
